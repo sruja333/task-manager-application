@@ -809,7 +809,7 @@ function App() {
   
   {/* Penguin Image */}
   <img
-    src={`${frostyState}.png`}
+    src={`/${frostyState}.png`}
     alt="Frosty the Penguin"
     style={{
       width: "265px",
