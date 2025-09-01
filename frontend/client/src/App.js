@@ -23,7 +23,8 @@ function App() {
   const [frostyMessage, setFrostyMessage] = useState("Frosty the penguin is asleep. Give him a task!");
   const [showConfetti, setShowConfetti] = useState(false);
 
-  const API_URL = process.env.REACT_APP_API_URL || "http://localhost:5000/tasks";
+  const API_URL = "https://task-manager-application-323a.onrender.com/tasks";
+
 
   // Load tasks and deadlines on mount
   useEffect(() => {
