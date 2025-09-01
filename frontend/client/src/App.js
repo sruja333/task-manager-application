@@ -426,7 +426,7 @@ function App() {
               </span>
             ))}
           </div>
-          <ul style={{ listStyle: "none", padding: 0, margin: 0, width: "100%" }}>
+          <ul style={{ listStyle: "none", padding: 0, margin: 0, width: "100%", overflowY: "auto", maxHeight: "400px" }}>
             {filteredTasks.length === 0 && (
               <li style={{
                 color: "#aaa",
