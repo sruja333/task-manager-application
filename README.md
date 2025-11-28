@@ -4,13 +4,13 @@ A full-stack **Task Manager** web app that helps users organize tasks with categ
 Built with **React (frontend)** and **Node.js + Express (backend)**, deployed on **Vercel** and **Render**.
 
 
-## Live Demo
+## 🚀 Live Demo
 - **Frontend (Vercel):** [Task Manager App](https://task-manager-application-te36.vercel.app/)  
 - **Backend API (Render):** [API Root](https://task-manager-application-323a.onrender.com/)  
 - **Tasks Endpoint:** [View Tasks JSON](https://task-manager-application-323a.onrender.com/tasks/)  
 
 
-## Features
+## ✨ Features
 - Add, delete, and manage tasks.  
 - Categorize tasks (Work, Study, Personal + custom).  
 - Set deadlines and get alerts when overdue.  
@@ -31,7 +31,7 @@ Built with **React (frontend)** and **Node.js + Express (backend)**, deployed on
 ## 📸 Screenshots
 <img width="1899" height="897" alt="image" src="https://github.com/user-attachments/assets/bf247749-7fa4-4d25-8909-aa5dd5222fb9" />
 
-## 🔑 Skills Highlight
+## 🔑 Skills Highlighted
 - Frontend: React, HTML, CSS, JavaScript  
 - Backend: Node.js, Express.js  
 - Deployment: Vercel, Render  
